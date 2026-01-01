@@ -1,34 +1,94 @@
-# Hi 👋, I'm Somnath
+<!-- Profile README for: Somnath1998g -->
 
-![Header image](https://raw.githubusercontent.com/Somnath1998g/Somnath1998g/main/assets/header.png)
+<h1 align="center">Hi, I'm Somnath 👋</h1>
+<p align="center">
+  <b>AI Software Developer</b> • Python • LLM Apps (RAG + Agents) • ML/Deep Learning
+</p>
 
-### I'm Somnath — software engineer, open-source contributor, and lifelong learner.
-- 🔭 I’m currently working on: a full-stack web app for X
-- 🌱 I’m learning: Rust, systems programming, and AI infra
-- ⚡ Fun: Coffee, chess, and building side projects
+<p align="center">
+  <a href="https://www.linkedin.com/in/somnath-ghosh-02099a251/">LinkedIn</a> •
+  <a href="mailto:YOUR_EMAIL_HERE">Email</a> •
+  <a href="YOUR_PORTFOLIO_LINK_HERE">Portfolio</a> •
+  <a href="YOUR_RESUME_LINK_HERE">Resume</a>
+</p>
 
-<!-- CONTACT -->
-### Connect with me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/yourprofile)](https://www.linkedin.com/in/yourprofile) 
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/yourhandle)](https://twitter.com/yourhandle)
-[![Website](https://img.shields.io/badge/-Website-00A5FF?style=flat-square&logo=google-chrome&logoColor=white&link=https://yourwebsite.com)](https://yourwebsite.com)
-
-<!-- STATS & BADGES -->
-### Stats
-[![Somnath's GitHub stats](https://github-readme-stats.vercel.app/api?username=Somnath1998g&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Somnath1998g&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-<!-- PINNED PROJECTS -->
-### Featured projects
-| Project | Description |
-|---|---|
-| [project-one](https://github.com/Somnath1998g/project-one) | One-liner — built with React & Node |
-| [project-two](https://github.com/Somnath1998g/project-two) | CLI tool for automating X |
-
-<!-- LAST UPDATED (this can be auto-updated with GitHub Actions) -->
-<!--LAST_UPDATED-->Last updated: 2026-01-01<!--END_LAST_UPDATED-->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Somnath1998g&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
 ---
 
-Thanks for visiting — feel free to say hi 👋
+## 🚀 About Me
+I build **production-style AI applications** with **RAG pipelines**, **agentic chatbots**, and **ML models**.  
+Currently focused on: **LLM tooling, retrieval systems, and clean APIs** for real-world use-cases.
+
+- 🔭 Working on: **RAG + Agent-based apps** (FastAPI/Streamlit/LangChain)
+- 🌱 Learning: **LLM evaluation, vector search patterns, and scalable ML**
+- 💬 Ask me about: **Python, RAG, embeddings, FAISS, LangChain, FastAPI**
+- 📍 Location: **Chennai, India**
+
+---
+
+## 🧰 Tech Stack
+**Languages:** Python  
+**AI/ML:** PyTorch, Sentence-Transformers, spaCy, Graph Neural Networks (GNN)  
+**LLM Apps:** LangChain, LangGraph, Tooling + Web Search  
+**Data & Vector Search:** FAISS, Embeddings, PDF ingestion (PyMuPDF)  
+**Backend / UI:** FastAPI, Streamlit  
+**Workflow:** Git/GitHub, Jupyter
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-111111?style=flat&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/FAISS-0467DF?style=flat&logo=meta&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" />
+</p>
+
+---
+
+## 🌟 Featured Projects (Best of my work)
+### 1) 🥗 Nutrition RAG Pipeline (Semantic Search + FAISS)
+A **high-performance RAG pipeline** that ingests PDFs, chunks + embeds content, and retrieves relevant passages using **FAISS** for faster search.
+- Tech: Sentence-Transformers, PyMuPDF, spaCy, FAISS, PyTorch
+- Repo: https://github.com/Somnath1998g/nutrition-rag-pipeline
+
+### 2) 🤖 Production-Ready AI Agent Chatbot (Real-time Web Search)
+A modular **agent chatbot** with **FastAPI backend + Streamlit UI**, supporting multiple providers and optional web search tools.
+- Tech: FastAPI, Streamlit, LangChain, Tavily, Groq/OpenAI
+- Repo: https://github.com/Somnath1998g/Production-Ready-AI-Agent-ChatBot-with-Real-Time-Web-Search
+
+### 3) 🧠 GNN Internship Project (User–Event Link Prediction)
+Graph Neural Network project to predict links between users and attended events with feature engineering + dimensionality reduction.
+- Tech: GNN, PCA, graph construction, Jupyter
+- Repo: https://github.com/Somnath1998g/Internship-Project
+
+### 4) 📊 Data Science & ML Notebook Collection
+A collection of DS/ML work across **CV, NLP, forecasting, and predictive modeling**.
+- Repo: https://github.com/Somnath1998g/Self-Projects-Data-Science-Machine-Learning
+
+---
+
+## 📈 GitHub Stats
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Somnath1998g&show_icons=true&rank_icon=github" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Somnath1998g&layout=compact" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Somnath1998g" />
+</p>
+
+---
+
+## 🤝 Let’s Connect
+- LinkedIn: https://www.linkedin.com/in/somnath-ghosh-02099a251/
+- Email: mailto:Somnath1998g@gmail.com
+- Resume: "C:\Users\Somnath\OneDrive\Somnath_resume (4).pdf"
+
+---
+
+<p align="center">
+  ⭐ If you like my work, consider following — I’m always building and improving.
+</p>
