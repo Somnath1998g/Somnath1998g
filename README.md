@@ -1,72 +1,81 @@
 <!-- Profile README for: Somnath1998g -->
 
-<h1 align="center">Hi, I'm Somnath 👋</h1>
+<h1 align="center">Hi, I'm Somnath Ghosh 👋</h1>
 <p align="center">
-  <b>AI Software Developer</b> • Python • LLM Apps (RAG + Agents) • ML/Deep Learning
+  <b>AI Software Developer</b> • Deep Learning • Computer Vision • NLP • GenAI (RAG + Agents)
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/somnath-ghosh-02099a251/">LinkedIn</a> •
-  <a href="mailto:Somnath1998g@gmail.com">Email</a> •
-  <a href="YOUR_PORTFOLIO_LINK_HERE">Portfolio</a> •
-  <a href="https://drive.google.com/file/d/1IXfoN621WmOoYBQwbKBBkcPZGmWjRWuV/view?usp=sharing">Resume</a>
+  <a href="mailto:somnath1998g@gmail.com">Email</a> •
+  <a href="https://drive.google.com/file/d/1IXfoN621WmOoYBQwbKBBkcPZGmWjRWuV/view?usp=sharing">Resume</a> •
+  <a href="YOUR_PORTFOLIO_LINK_HERE">Portfolio</a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Somnath1998g&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Somnath1998g&label=Profile%20Views&style=flat" alt="profile views" />
 </p>
 
 ---
 
 ## 🚀 About Me
-I build **production-style AI applications** with **RAG pipelines**, **agentic chatbots**, and **ML models**.  
-Currently focused on: **LLM tooling, retrieval systems, and clean APIs** for real-world use-cases.
+I'm an **AI Software Developer (2+ years)** building end-to-end solutions across **Deep Learning, Computer Vision, NLP, and Generative AI**.  
+I enjoy turning research ideas into clean, usable systems — from **medical imaging pipelines** to **LLM apps (RAG + Agents)**.
 
-- 🔭 Working on: **RAG + Agent-based apps** (FastAPI/Streamlit/LangChain)
-- 🌱 Learning: **LLM evaluation, vector search patterns, and scalable ML**
-- 💬 Ask me about: **Python, RAG, embeddings, FAISS, LangChain, FastAPI**
-- 📍 Location: **Chennai, India**
+**What I work on:**
+- 🧠 **Medical Imaging AI:** U-Net segmentation, SRGAN super-resolution, image enhancement with **GANs / VAEs / Diffusion**
+- 🧩 **NLP + Graph ML:** relation extraction using **GNNs** and **LLMs**
+- 🔎 **GenAI Apps:** RAG pipelines, retrieval + embeddings, agentic chatbots
+
+**Highlights:**
+- 🎓 M.Tech (IIT Madras) — Industrial Mathematics & Scientific Computing
+- 🏆 GATE (Math) AIR 413 • CSIR NET (Math) AIR 68
 
 ---
 
 ## 🧰 Tech Stack
-**Languages:** Python  
-**AI/ML:** PyTorch, Sentence-Transformers, spaCy, Graph Neural Networks (GNN)  
-**LLM Apps:** LangChain, LangGraph, Tooling + Web Search  
-**Data & Vector Search:** FAISS, Embeddings, PDF ingestion (PyMuPDF)  
-**Backend / UI:** FastAPI, Streamlit  
-**Workflow:** Git/GitHub, Jupyter
+**Languages:** Python, R, C, C++, SQL  
+**ML/DL:** PyTorch, TensorFlow, scikit-learn  
+**NLP/LLMs:** Transformers, LangChain, LangGraph, spaCy, NLTK, Prompt Engineering  
+**GenAI / Retrieval:** Embeddings, FAISS, PDF ingestion (PyMuPDF)  
+**Backend/UI:** FastAPI, Streamlit  
+**Tools:** Git/GitHub, Jupyter, MS Excel, AWS (learning)
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-111111?style=flat&logo=chainlink&logoColor=white" />
-  <img src="https://img.shields.io/badge/FAISS-0467DF?style=flat&logo=meta&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-111111?style=flat" />
+  <img src="https://img.shields.io/badge/FAISS-0467DF?style=flat" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
 </p>
 
 ---
 
-## 🌟 Featured Projects (Best of my work)
-### 1) 🥗 Nutrition RAG Pipeline (Semantic Search + FAISS)
-A **high-performance RAG pipeline** that ingests PDFs, chunks + embeds content, and retrieves relevant passages using **FAISS** for faster search.
-- Tech: Sentence-Transformers, PyMuPDF, spaCy, FAISS, PyTorch
+## 🌟 Featured Projects
+### 🥗 Nutrition RAG Pipeline (FAISS + Sentence Transformers)
+High-performance RAG pipeline for semantic search in nutrition textbooks with faster vector retrieval.
 - Repo: https://github.com/Somnath1998g/nutrition-rag-pipeline
 
-### 2) 🤖 Production-Ready AI Agent Chatbot (Real-time Web Search)
-A modular **agent chatbot** with **FastAPI backend + Streamlit UI**, supporting multiple providers and optional web search tools.
-- Tech: FastAPI, Streamlit, LangChain, Tavily, Groq/OpenAI
+### 🤖 Production-Ready AI Agent Chatbot (LangGraph + Web Search)
+End-to-end agent chatbot with FastAPI + Streamlit and tool-based web search.
 - Repo: https://github.com/Somnath1998g/Production-Ready-AI-Agent-ChatBot-with-Real-Time-Web-Search
 
-### 3) 🧠 GNN Internship Project (User–Event Link Prediction)
-Graph Neural Network project to predict links between users and attended events with feature engineering + dimensionality reduction.
-- Tech: GNN, PCA, graph construction, Jupyter
+### 🧠 GNN Internship Project (User–Event Link Prediction)
+Graph model to predict links between users and attended events; feature reduction and graph learning.
 - Repo: https://github.com/Somnath1998g/Internship-Project
 
-### 4) 📊 Data Science & ML Notebook Collection
-A collection of DS/ML work across **CV, NLP, forecasting, and predictive modeling**.
+### 📚 Data Science / ML Notebook Collection
+Hands-on DS/ML practice and experiments across multiple topics.
 - Repo: https://github.com/Somnath1998g/Self-Projects-Data-Science-Machine-Learning
+
+---
+
+## 💼 Experience (Short)
+- **AI Software Developer @ NUVO AI** — Medical imaging DL (segmentation, super-resolution, enhancement, reconstruction)
+- **ML Intern** — Relation extraction using GNN + LLMs; event attendance prediction using GNNs
 
 ---
 
@@ -86,16 +95,14 @@ A collection of DS/ML work across **CV, NLP, forecasting, and predictive modelin
   </a>
 </p>
 
-
 ---
 
-## 🤝 Let’s Connect
+## 🤝 Contact
 - LinkedIn: https://www.linkedin.com/in/somnath-ghosh-02099a251/
-- Email: mailto:Somnath1998g@gmail.com
+- Email: somnath1998g@gmail.com
 - Resume: https://drive.google.com/file/d/1IXfoN621WmOoYBQwbKBBkcPZGmWjRWuV/view?usp=sharing
-
----
+- Portfolio: YOUR_PORTFOLIO_LINK_HERE
 
 <p align="center">
-  ⭐ If you like my work, consider following — I’m always building and improving.
+  ⭐ Thanks for visiting! I’m open to AI/ML • GenAI • CV/NLP roles and collaborations.
 </p>
