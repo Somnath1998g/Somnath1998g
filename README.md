@@ -7,9 +7,9 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/somnath-ghosh-02099a251/">LinkedIn</a> •
-  <a href="mailto:YOUR_EMAIL_HERE">Email</a> •
+  //<a href="mailto:Somnath1998g@gmail.com">Email</a> •
   <a href="YOUR_PORTFOLIO_LINK_HERE">Portfolio</a> •
-  <a href="YOUR_RESUME_LINK_HERE">Resume</a>
+  <a href="[YOUR_RESUME_LINK_HERE](https://drive.google.com/file/d/1IXfoN621WmOoYBQwbKBBkcPZGmWjRWuV/view?usp=sharing)">Resume</a>
 </p>
 
 <p align="center">
