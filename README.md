@@ -101,7 +101,6 @@ Hands-on DS/ML practice and experiments across multiple topics.
 - LinkedIn: https://www.linkedin.com/in/somnath-ghosh-02099a251/
 - Email: somnath1998g@gmail.com
 - Resume: https://drive.google.com/file/d/1IXfoN621WmOoYBQwbKBBkcPZGmWjRWuV/view?usp=sharing
-- Portfolio: YOUR_PORTFOLIO_LINK_HERE
 
 <p align="center">
   ⭐ Thanks for visiting! I’m open to AI/ML • GenAI • CV/NLP roles and collaborations.
