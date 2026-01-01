@@ -72,20 +72,27 @@ A collection of DS/ML work across **CV, NLP, forecasting, and predictive modelin
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Somnath1998g&show_icons=true&rank_icon=github" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Somnath1998g&layout=compact" />
+  <a href="https://github.com/Somnath1998g">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=Somnath1998g&show_icons=true&rank_icon=github&cache_seconds=86400&v=1" />
+  </a>
+  <a href="https://github.com/Somnath1998g">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Somnath1998g&layout=compact&cache_seconds=86400&v=1" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Somnath1998g" />
+  <a href="https://github.com/Somnath1998g">
+    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Somnath1998g&cache_seconds=86400&v=1" />
+  </a>
 </p>
+
 
 ---
 
 ## 🤝 Let’s Connect
 - LinkedIn: https://www.linkedin.com/in/somnath-ghosh-02099a251/
 - Email: mailto:Somnath1998g@gmail.com
-- Resume: "C:\Users\Somnath\OneDrive\Somnath_resume (4).pdf"
+- Resume: https://drive.google.com/file/d/1IXfoN621WmOoYBQwbKBBkcPZGmWjRWuV/view?usp=sharing
 
 ---
 
