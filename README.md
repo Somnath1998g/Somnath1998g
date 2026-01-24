@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/somnath-ghosh-02099a251/">LinkedIn</a> •
   <a href="mailto:somnath1998g@gmail.com">Email</a> •
   <a href="https://drive.google.com/file/d/1o8FuDcb4y0oiGFBf_vwc7YXOj4eHQ7a4/view?usp=sharing">Resume</a> •
-  <a href="YOUR_PORTFOLIO_LINK_HERE">Portfolio</a>
+  <a href="https://portfolio-somnath-62p8.onrender.com/#contact">Portfolio</a>
 </p>
 
 <p align="center">
@@ -101,6 +101,7 @@ Hands-on DS/ML practice and experiments across multiple topics.
 - LinkedIn: https://www.linkedin.com/in/somnath-ghosh-02099a251/
 - Email: somnath1998g@gmail.com
 - Resume: https://drive.google.com/file/d/1o8FuDcb4y0oiGFBf_vwc7YXOj4eHQ7a4/view?usp=sharing
+- Portfolio: https://portfolio-somnath-62p8.onrender.com/#contact
 
 <p align="center">
   ⭐ Thanks for visiting! I’m open to AI/ML • GenAI • CV/NLP roles and collaborations.
