@@ -67,9 +67,9 @@ End-to-end agent chatbot with FastAPI + Streamlit and tool-based web search.
 Graph model to predict links between users and attended events; feature reduction and graph learning.
 - Repo: https://github.com/Somnath1998g/Internship-Project
 
-### 📚 Data Science / ML Notebook Collection
-Hands-on DS/ML practice and experiments across multiple topics.
-- Repo: https://github.com/Somnath1998g/Self-Projects-Data-Science-Machine-Learning
+### 📚 Legal Judgment Summarization with Llama-2 (LoRA Fine-Tuning + RAG)
+An end-to-end Generative AI pipeline designed to automate the summarization of complex Indian legal judgements.
+- Repo: https://github.com/Somnath1998g/Legal-GenAI-RAG-Enhanced-Legal-Judgement-Summarization-using-LLaMA-2-QLoRA/tree/main
 
 ---
 
