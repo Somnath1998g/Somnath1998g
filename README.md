@@ -74,8 +74,9 @@ An end-to-end Generative AI pipeline designed to automate the summarization of c
 ---
 
 ## 💼 Experience (Short)
-- **AI Software Developer @ NUVO AI** — Medical imaging DL (segmentation, super-resolution, enhancement, reconstruction)
-- **ML Intern** — Relation extraction using GNN + LLMs; event attendance prediction using GNNs
+- **AI Software Developer @ Meril(NUVO AI)** — Medical imaging DL (segmentation, super-resolution, enhancement, reconstruction)
+- **ML Intern @ Pinaca Technology** — Relation extraction from text using GNN + LLMs
+- **ML Intern @ IIT Bhilai** — event attendance prediction using GNNs
 
 ---
 
