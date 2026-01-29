@@ -55,21 +55,22 @@ I enjoy turning research ideas into clean, usable systems — from **medical ima
 ---
 
 ## 🌟 Featured Projects
-### 🥗 Nutrition RAG Pipeline (FAISS + Sentence Transformers)
-High-performance RAG pipeline for semantic search in nutrition textbooks with faster vector retrieval.
-- Repo: https://github.com/Somnath1998g/nutrition-rag-pipeline
 
 ### 🤖 Production-Ready AI Agent Chatbot (LangGraph + Web Search)
 End-to-end agent chatbot with FastAPI + Streamlit and tool-based web search.
 - Repo: https://github.com/Somnath1998g/Production-Ready-AI-Agent-ChatBot-with-Real-Time-Web-Search
 
-### 🧠 GNN Internship Project (User–Event Link Prediction)
-Graph model to predict links between users and attended events; feature reduction and graph learning.
-- Repo: https://github.com/Somnath1998g/Internship-Project
-
 ### 📚 Legal Judgment Summarization with Llama-2 (LoRA Fine-Tuning + RAG)
 An end-to-end Generative AI pipeline designed to automate the summarization of complex Indian legal judgements.
-- Repo: https://github.com/Somnath1998g/Legal-GenAI-RAG-Enhanced-Legal-Judgement-Summarization-using-LLaMA-2-QLoRA/tree/main
+- Repo: https://github.com/Somnath1998g/Legal-GenAI-RAG-Enhanced-Legal-Judgement-Summarization-using-LLaMA-2-QLoRA
+
+### 🥗 Nutrition RAG Pipeline (FAISS + Sentence Transformers)
+High-performance RAG pipeline for semantic search in nutrition textbooks with faster vector retrieval.
+- Repo: https://github.com/Somnath1998g/nutrition-rag-pipeline
+
+### 🧠 Hetero-GNN-link-prediction (User–Event Link Prediction)
+Graph model to predict links between users and attended events; feature reduction and graph learning.
+- Repo: https://github.com/Somnath1998g/Internship-Project
 
 ---
 
