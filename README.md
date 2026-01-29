@@ -74,7 +74,7 @@ Graph model to predict links between users and attended events; feature reductio
 
 ---
 
-## 💼 Experience (Short)
+## 💼 Experience
 - **AI Software Developer @ Meril(NUVO AI)** — Medical imaging DL (segmentation, super-resolution, enhancement, reconstruction)
 - **ML Intern @ Pinaca Technology** — Relation extraction from text using GNN + LLMs
 - **ML Intern @ IIT Bhilai** — event attendance prediction using GNNs
