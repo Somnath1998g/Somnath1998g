@@ -19,7 +19,7 @@
 ---
 
 ## 🚀 About Me
-I'm an **AI Software Developer (2+ years) @Meril** building end-to-end solutions across **Deep Learning, Computer Vision, NLP, and Generative AI**.  
+Experienced **AI Software Developer** with 3+ years of total experience, including 2+ years of industry experience, specializing in **Deep Learning, Computer Vision, NLP, and Generative AI**.  
 I enjoy turning research ideas into clean, usable systems — from **medical imaging pipelines** to **LLM apps (RAG + Agents)**.
 
 **What I work on:**
