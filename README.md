@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi, I'm Somnath Ghosh 👋</h1>
 <p align="center">
-  <b>AI Software Developer</b> • Deep Learning • Computer Vision • NLP • GenAI (RAG + Agents)
+  <b>AI Software Engineer</b> • Deep Learning • Computer Vision • NLP • GenAI (RAG + Agents)
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@
 ---
 
 ## 🚀 About Me
-Experienced **AI Software Developer** with 3+ years of total experience, including 2+ years of industry experience, specializing in **Deep Learning, Computer Vision, NLP, and Generative AI**.  
+Experienced **AI Software Engineer** with 4+ years of total experience, including 3+ years of industry experience, specializing in **Deep Learning, Computer Vision, NLP, and Generative AI**.  
 I enjoy turning research ideas into clean, usable systems — from **medical imaging pipelines** to **LLM apps (RAG + Agents)**.
 
 **What I work on:**
@@ -75,7 +75,7 @@ Graph model to predict links between users and attended events; feature reductio
 ---
 
 ## 💼 Experience
-- **AI Software Developer @ Meril(NUVO AI)** — Medical imaging DL (segmentation, super-resolution, enhancement, reconstruction)
+- **AI Software Developer @ Meril(Merai Newage)** — Medical imaging DL (segmentation, super-resolution, enhancement, reconstruction)
 - **ML Intern @ Pinaca Technology** — Relation extraction from text using GNN + LLMs
 - **ML Intern @ IIT Bhilai** — event attendance prediction using GNNs
 
